@@ -1,0 +1,15 @@
+{
+    "name": "wizchef",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "ts-node src/index.ts"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^14.15.3",
+        "dotenv": "^16.4.5"
+    }
+}
